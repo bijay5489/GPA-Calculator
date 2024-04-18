@@ -1,0 +1,4 @@
+Miroprocessor
+Embedded Systems
+Digital Image Processing
+Modelling and Simulation
